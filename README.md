@@ -35,21 +35,5 @@ npm start
 - Clear the input field on submit
 - check for input value
 
-## Demo
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap">
- <img src="assets/home.jpg"  width="250">
- <img src="assets/items.jpg"  width="250">
-</div>
 
-## ⚒️ Upgrade project
-
-```bash
-# upgrade project
-expo-cli upgrade
-```
-
-## ⭐ Contributing
-
-If you'd like to contribute, please fork the repository and make changes as
-you'd like. Pull requests are warmly welcome.
